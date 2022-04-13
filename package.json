@@ -1,0 +1,21 @@
+{
+  "name": "assignment_1",
+  "version": "1.0.0",
+  "description": "\"This is My Full Stack Web devlopment Course Assignment number 1\"",
+  "main": "aboutus.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Karan Kishor Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.1.1",
+    "popper.js": "^1.12.9"
+  }
+}
